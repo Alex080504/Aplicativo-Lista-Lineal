@@ -1,0 +1,11 @@
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\bin\Debug\Aplicativo.Lista.Lineal.exe.config
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\bin\Debug\Aplicativo.Lista.Lineal.exe
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\bin\Debug\Aplicativo.Lista.Lineal.pdb
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Circular.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.exe.config
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Circular.Form1.resources
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.Properties.Resources.resources
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Circular.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Circular.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.exe
+C:\Users\GIGABYTE\Downloads\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.pdb

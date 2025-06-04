@@ -1,0 +1,10 @@
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\bin\Debug\Aplicativo.Lista.Lineal.exe.config
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\bin\Debug\Aplicativo.Lista.Lineal.exe
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\bin\Debug\Aplicativo.Lista.Lineal.pdb
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.Form1.resources
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.Properties.Resources.resources
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.exe
+C:\Users\ALEXANDER\Documents\estructura\Aplicativo.Lista.Lineal\obj\Debug\Aplicativo.Lista.Lineal.pdb
